@@ -1,0 +1,60 @@
+=================================HELP===============================
+
+In this game, you are a bounty hunter who went on a quest to kill the
+wumpus. During your exploration of the wumpus's hideout, you will find
+traps and items.
+
+TRAPS
+========================
+PIT	If you have a grappling hook, you will automatically use it
+	and you will be saved however, the grappling hook will wear
+	out and not fit for further use as it is already old. Otherwise,
+	you are as good as a water droplet
+
+BAT	If you have a bat whistle, the bat will not bother you however,
+	they will snatch it away so that you can't blow it anymore.
+	Otherwise, you will be sent to a random room and it is possible
+	to be dropped at a pit or the wumpus.
+
+WUMPUS	It will start of sleeping at a random place in the cavern. You
+	need to shoot it in order to kill it. If you miss your shot, it
+	will wake up but if you have a silencer, you will need at least
+	2 missed shots to wake the wumpus up. If you meet with the wumpus,
+	you will be turned into a golden statue and lose.
+
+	Upon waking up, the wumpus will move to another room 3 out of 4
+	times and go back to sleep 1 out of 4 times.
+
+
+ITEMS
+=========================
+BATTERIES	The cavern is dark and therefore you use a pair of night
+		vision goggles, but you forgot to bring spare batteries.
+		Any batteries you find in the cave can be used to recharge
+		your goggles.
+
+AMMO		The bullets found in the cavern are coincidentally the
+		same caliber as the one you use.
+
+SILENCER	An attachment to your pistol do reduce the noise produced
+		when shooting, thus not causing the wumpus to instantly
+		wake up from the noise.
+
+GRAPPLING HOOK	It will save you from falling into a pit once
+
+BAT WHISTLE	It will save you from being transported by the bats once
+
+
+COMMANDS
+=========================
+GO <DIRECTION>		You need to input the direction (N, NE, E, SE, etc.) to
+			proceed to the next room
+
+SHOOT <DIRECTION>	You need to input the direction (N, NE, E, SE, etc.) to
+			shoot in that direction. If you were to shoot to a wall,
+			the bullet will ricochet and thus enter a random room.
+			Upon missing the shot, the wumpus might wake up.
+
+HELP			To open the help screen at any time
+
+QUIT			To quit the game at anytime.

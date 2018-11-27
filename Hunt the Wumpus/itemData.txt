@@ -1,0 +1,31 @@
+AA Batteries
+C
+15
+
+9V Batteries
+C
+40
+
+AAA Batteries
+C
+8
+
+9mm Bullets
+C
+3
+
+9mm Bullets
+C
+2
+
+Bat Whistle
+E
+0
+
+Grappling Hook
+E
+0
+
+Silencer
+E
+0

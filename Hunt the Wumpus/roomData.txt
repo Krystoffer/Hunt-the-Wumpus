@@ -1,0 +1,119 @@
+Cave Entrance
+The inside of the cave looks dark and your sound echoes inside
+W 0
+E 1
+S 5
+
+Rubbles
+Looks like this area could cave in at any time
+W 0
+E 2
+S 6
+
+Prison
+I see a skeleton behind the golden bars
+W 1
+SE 8
+S 7
+
+Underground Lake
+The most beautiful place in this land where you can see ice stalagmites
+N 3
+E 4
+SE 9
+
+Glacier Slope
+A naturally formed path of ice that is like an ice wonderland
+W 3
+E 19
+S 9
+
+Muddy Soil
+Well... It is mud, what else do you expect
+N 0
+E 6
+S 10
+
+Narrow Passage
+A small corridor with not much lighting
+W 5
+N 1
+S 11
+
+Hunter's Retreat
+An area where a lot of hunters in the past took a breather
+N 2
+E 8
+S 12
+
+Pit of Diffidence
+A very deep pit that is not easy to climb out
+W 7
+NW 2
+S 13
+
+Slough of Despond
+The swamp is infused with an evil power that destroys the hope that you hold onto
+NW 3
+N 4
+S 14
+
+Sewerage
+It has an unimaginable stench due to the flow being blocked
+N 5
+SE 16
+S 15
+
+Forgotten Crypt
+Who is buried inside? No one knows, it is written "No one shall remember me, for i am not...."
+N 6
+SE 17
+SW 15
+
+Silence of the Brave
+Golden statues of humans are standing all over this area
+N 7
+E 13
+SE 18
+
+No Man's Land
+It looks like a barren wasteland that has been used for a war
+W 12
+N 8
+E 14
+
+Golden City
+A city where everything is made of gold, a paradise for the poor
+W 13
+N 9
+S 19
+
+Feeding Room
+The wumpus uses this room to eat, surprisingly it eats at a dining table
+N 10
+SE 11
+E 16
+
+Ossuary
+Piles of bones can be seen everywhere
+W 15
+NW 10
+E 17
+
+Treasury
+All of the wumpus' most precious treasure are stored here
+W 16
+NW 11
+E 18
+
+Nest
+Where the wumpus sleeps at night
+W 17
+NW 12
+E 19
+
+Wumpus Sepulcher
+A ginormous wumpus statue made of gold is made to honor the wumpus
+W 18
+N 14
+E 4
